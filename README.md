@@ -1,2 +1,2 @@
-### amazon-clone
+### ShopNexus
 
